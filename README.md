@@ -1,2 +1,2 @@
 # PythonProgrammingTest
-My test of my programming class made on Python
+My today programming test made on the Python language, originally made on Java.
