@@ -34,6 +34,8 @@ if launchTrasgo == "Si":
     pass
 elif launchTrasgo == "No":
     exit("No se ha lanzado un Trasgo.")
+else:
+    exit("La respuesta no es válida.")
 
 # We check the distance that will cover the launch using two
 # formulas, one for "green" color, and another for the "red"
